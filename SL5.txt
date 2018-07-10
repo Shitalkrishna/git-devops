@@ -1,1 +1,3 @@
 Rebasing is another kind of merging.
+
+CHANGES DONE
